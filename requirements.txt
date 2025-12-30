@@ -1,0 +1,11 @@
+ipykernel
+dotenv
+langchain
+langchain_community
+bs4
+langchain_openai
+faiss-cpu
+langchain_groq
+streamlit
+pypdf
+langchain_huggingface
